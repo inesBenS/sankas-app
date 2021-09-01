@@ -1,0 +1,40 @@
+#header-nav {
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: black;
+    color: white;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+}
+
+#title {
+    color: white;
+    font-family: Besley;
+    font-size: 30px;
+    height: auto;
+    letter-spacing: 5px;
+}
+
+#ul-navbar {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    width: 50%;
+    justify-content: space-between;
+    font-family: Nunito;
+    font-size: 20px;
+    margin-bottom: 0%;
+}
+
+.lien-navbar {
+    text-decoration: none;
+    color: white;
+}
+.lien-navbar:hover {
+    color: #ade8f4;
+}
+
+ 

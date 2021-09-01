@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.myrow {
+  display: flex;
+  width: 100%;
+}
+
+.spaced {
+  justify-content: space-around;
+}
